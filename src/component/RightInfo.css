@@ -1,0 +1,24 @@
+.rightinfo {
+    padding-left: 15px;
+    width: 70%;
+}
+
+.rightinfo__career {
+    color: rgb(136, 128, 128);
+}
+
+.text {
+    width: 50%;
+}
+
+.rightinfo__1 {
+    display: flex;
+}
+
+.rightinfo__2 {
+    width: 10%;
+}
+
+.rightinfo__4 {
+    width: 10%;
+}

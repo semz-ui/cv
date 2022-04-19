@@ -1,0 +1,22 @@
+.leftinfo {
+    width: 30%;
+    background-color: #eee;
+    padding-bottom: auto;
+}
+
+.leftinfo__image {
+    width: 30%;
+    margin: 50px 100px;
+}
+
+.leftinfo__box {
+    text-align: left;
+    padding-left: 90px;
+    padding-bottom: 100px;
+    width: 30%;
+}
+
+.leftinfo__address__address {
+    padding-bottom: 100px;
+}
+
